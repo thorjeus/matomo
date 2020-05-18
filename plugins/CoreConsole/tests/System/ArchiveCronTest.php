@@ -7,7 +7,7 @@
  */
 namespace Piwik\Plugins\CoreConsole\tests\System;
 
-use Interop\Container\ContainerInterface;
+use Psr\Container\ContainerInterface;
 use Piwik\Common;
 use Piwik\Config;
 use Piwik\CronArchive;

@@ -73,7 +73,7 @@ class StaticContainer
      *
      * @param string $name Container entry name.
      * @return mixed
-     * @throws \DI\NotFoundException
+     * @throws \DI\NotFoundException|\DI\DependencyException
      */
     public static function get($name)
     {

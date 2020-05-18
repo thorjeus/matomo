@@ -66,7 +66,6 @@ class ContainerFactory
         $builder = new ContainerBuilder();
 
         $builder->useAnnotations(false);
-        $builder->setDefinitionCache(new ArrayCache());
 
         // INI config
         $builder->addDefinitions(new IniConfigDefinitionSource($this->settings));
