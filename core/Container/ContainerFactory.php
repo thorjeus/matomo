@@ -10,7 +10,6 @@ namespace Piwik\Container;
 
 use DI\Container;
 use DI\ContainerBuilder;
-use Doctrine\Common\Cache\ArrayCache;
 use Piwik\Application\Kernel\GlobalSettingsProvider;
 use Piwik\Application\Kernel\PluginList;
 use Piwik\Plugin\Manager;

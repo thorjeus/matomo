@@ -3,7 +3,6 @@
 use Psr\Container\ContainerInterface;
 use Matomo\Cache\Eager;
 use Piwik\SettingsServer;
-use Piwik\Config;
 
 return array(
 
