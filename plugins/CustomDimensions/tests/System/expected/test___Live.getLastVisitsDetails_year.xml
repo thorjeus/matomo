@@ -22,9 +22,9 @@
 				<icon />
 				<iconSVG>plugins/Morpheus/images/action.svg</iconSVG>
 				
-				<bandwidth_pretty>0 M</bandwidth_pretty>
 				<dimension3>en</dimension3>
 				<dimension5>en_US</dimension5>
+				<bandwidth_pretty>0 M</bandwidth_pretty>
 			</row>
 			<row>
 				<type>goal</type>
@@ -166,9 +166,9 @@
 				<icon />
 				<iconSVG>plugins/Morpheus/images/action.svg</iconSVG>
 				
-				<bandwidth_pretty>0 M</bandwidth_pretty>
 				<dimension3>en</dimension3>
 				<dimension5>value5 5</dimension5>
+				<bandwidth_pretty>0 M</bandwidth_pretty>
 			</row>
 			<row>
 				<type>goal</type>
@@ -310,9 +310,9 @@
 				<icon />
 				<iconSVG>plugins/Morpheus/images/action.svg</iconSVG>
 				
-				<bandwidth_pretty>0 M</bandwidth_pretty>
 				<dimension3>en</dimension3>
 				<dimension5>en_US</dimension5>
+				<bandwidth_pretty>0 M</bandwidth_pretty>
 			</row>
 			<row>
 				<type>goal</type>
@@ -456,9 +456,9 @@
 				<icon />
 				<iconSVG>plugins/Morpheus/images/action.svg</iconSVG>
 				
-				<bandwidth_pretty>0 M</bandwidth_pretty>
 				<dimension3>value3</dimension3>
 				<dimension5>value5</dimension5>
+				<bandwidth_pretty>0 M</bandwidth_pretty>
 			</row>
 			<row>
 				<type>action</type>
@@ -477,9 +477,9 @@
 				<icon />
 				<iconSVG>plugins/Morpheus/images/action.svg</iconSVG>
 				
-				<bandwidth_pretty>0 M</bandwidth_pretty>
 				<dimension3>en</dimension3>
 				<dimension5>343</dimension5>
+				<bandwidth_pretty>0 M</bandwidth_pretty>
 			</row>
 			<row>
 				<type>goal</type>
@@ -513,9 +513,9 @@
 				<icon />
 				<iconSVG>plugins/Morpheus/images/action.svg</iconSVG>
 				
-				<bandwidth_pretty>0 M</bandwidth_pretty>
 				<dimension3>value5 3</dimension3>
 				<dimension5>en_US</dimension5>
+				<bandwidth_pretty>0 M</bandwidth_pretty>
 			</row>
 		</actionDetails>
 		<goalConversions>1</goalConversions>
@@ -640,9 +640,9 @@
 				<icon />
 				<iconSVG>plugins/Morpheus/images/action.svg</iconSVG>
 				
-				<bandwidth_pretty>0 M</bandwidth_pretty>
 				<dimension3 />
 				<dimension5 />
+				<bandwidth_pretty>0 M</bandwidth_pretty>
 			</row>
 			<row>
 				<type>goal</type>
